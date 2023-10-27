@@ -13614,6 +13614,11 @@ h5, .h5 {
   font-size: 27px;
 }
 
+h6, .h6 {
+  font-size: 25px;
+  color: white;
+}
+
 .breadcrumb {
   font-size: 25px;
 }

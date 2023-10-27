@@ -897,7 +897,7 @@ blockquote {
   SITE FOOTER              
 -----------------------------------------*/
 .site-footer {
-  border-bottom: 10px solid var(--secondary-color);
+  border-bottom: 5px solid var(--primary-color);
   position: relative;
 }
 
@@ -909,14 +909,11 @@ blockquote {
   width: 0;
   height: 0;
   border-style: solid;
-  border-width: 0 0 200px 200px;
-  border-color: transparent transparent var(--secondary-color) transparent;
+  border-width: 0 0 100px 200px;
+  border-color: transparent transparent var(--primary-color) transparent;
   pointer-events: none;
 }
 
-.site-footer-title {
-  color: var(--primary-color); 
-}
 
 .site-footer .dropdown-menu {
   padding: 0;
@@ -966,12 +963,10 @@ blockquote {
   color: var(--secondary-color);
   font-size: var(--copyright-font-size);
   font-weight: var(--font-weight-medium);
-  line-height: normal;
+  line-height: 3;
 }
 
-.copyright-text {
-  font-size: var(--copyright-font-size);
-}
+
 
 
 /*---------------------------------------

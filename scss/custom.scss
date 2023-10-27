@@ -6,6 +6,7 @@ $info: #55948a;
 
 
 
+
 // Include any default variable overrides here (though functions won't be available)\
 
 
@@ -29,6 +30,10 @@ h1{
 h5{
     text-decoration: none;
     font-size: 27px;
+}
+h6{
+    font-size: 25px;
+    color: white;
 }
 
 .breadcrumb{
