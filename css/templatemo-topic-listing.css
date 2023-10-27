@@ -1099,6 +1099,14 @@ blockquote {
     padding-top: 30px;
     padding-bottom: 0;
   }
+
+  .rounded-circle{
+    height: 150px;
+    width: auto;
+    align-items: center;
+}
+
+
 }
 
 @media screen and (max-width: 480px) {
@@ -1121,5 +1129,6 @@ blockquote {
   h5 {
     font-size: 20px;
   }
+
 }
 

@@ -13621,3 +13621,16 @@ h5, .h5 {
 body::-webkit-scrollbar {
   display: none;
 }
+
+.rounded-circle {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.bio-img {
+  display: block;
+  max-width: 60%;
+  height: auto;
+  border-radius: 50%;
+}
