@@ -1,12 +1,19 @@
 // Custom.scss
 // Option A: Include all of Bootstrap
 
-$primary: green;
-$secondary: blue;
+$primary: #2f5e5a;
 
 // Include any default variable overrides here (though functions won't be available)\
 
 
 @import "../node_modules/bootstrap/scss/bootstrap";
+/* === Import Bootstrap functions and variables === */
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+@import "../node_modules/bootstrap/scss/reboot";
+@import "../node_modules/bootstrap/scss/type";
+@import "../node_modules/bootstrap/scss/images";
+@import "../node_modules/bootstrap/scss/grid";
 
 // Then add additional custom code here
