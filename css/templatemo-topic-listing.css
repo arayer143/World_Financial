@@ -147,7 +147,7 @@ strong {
 }
 
 .section-overlay {
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-image: linear-gradient(125deg,#62e1c1 15%,  #295854 100%);
   position: absolute;
   top: 0;
   left: 0;
@@ -248,7 +248,7 @@ strong {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-image: linear-gradient(125deg,#62e1c1 15%,  #295854 100%);
   padding-top: 150px;
   padding-bottom: 80px;
 }
@@ -295,7 +295,6 @@ strong {
 
 .navbar-brand,
 .navbar-brand:hover {
-  font-size: var(--h3-font-size);
   font-weight: var(--font-weight-bold);
   display: block;
 }
@@ -470,7 +469,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  background-image: linear-gradient(125deg,#62e1c1 15%,  #295854 100%);
   position: relative;
   overflow: hidden;
   padding-top: 150px;
@@ -488,27 +487,14 @@ strong {
   border: 0;
 }
 
-.hero-section input[type="search"] {
-  border: 0;
-  box-shadow: none;
-  margin-bottom: 0;
-  padding-left: 0;
-}
 
-.hero-section button[type="submit"] {
-  background-color: var(--primary-color);
-  border: 0;
-  border-radius: var(--border-radius-large) !important;
-  color: var(--white-color);
-  max-width: 150px;
-}
 
 
 /*---------------------------------------
   TOPICS              
 -----------------------------------------*/
 .featured-section {
-  background-color: var(--secondary-color);
+  background-image: linear-gradient(125deg,#62e1c1 15%,  #295854 100%);
   border-radius: 0 0 100px 100px;
   padding-bottom: 100px;
 }
@@ -710,7 +696,7 @@ blockquote {
   TIMELINE              
 -----------------------------------------*/
 .timeline-section {
-  background-image: url('../images/colleagues-working-cozy-office-medium-shot.jpg');
+  background-image: url('../images/AdobeStock_198806990_Preview.jpeg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

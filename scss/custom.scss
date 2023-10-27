@@ -2,6 +2,9 @@
 // Option A: Include all of Bootstrap
 
 $primary: #2f5e5a;
+$info: #55948a;
+
+
 
 // Include any default variable overrides here (though functions won't be available)\
 
@@ -17,3 +20,27 @@ $primary: #2f5e5a;
 @import "../node_modules/bootstrap/scss/grid";
 
 // Then add additional custom code here
+
+
+h1{
+    font-size: 30px;
+}
+
+h5{
+    text-decoration: none;
+    font-size: 27px;
+}
+
+.breadcrumb{
+    font-size: 25px;
+   
+    
+}
+
+
+body::-webkit-scrollbar{
+    display: none;
+
+}
+
+
