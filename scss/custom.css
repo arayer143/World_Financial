@@ -13623,6 +13623,10 @@ h6, .h6 {
   font-size: 25px;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 body::-webkit-scrollbar {
   display: none;
 }
