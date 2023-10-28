@@ -4,8 +4,8 @@ h1, .h1 {
 }
 
 h5, .h5 {
-  text-decoration: none;
-  font-size: 27px;
+  text-decoration: underline;
+  font-size: 37px;
 }
 
 h6, .h6 {
