@@ -47,6 +47,17 @@
       var timeline = $('#vertical-scrollable-timeline li');
       Array.from(timeline).forEach(isScrollIntoView);
     });
+
+
+    var lightboxDescription = GLightbox({
+      selector: '.glightbox2',
+    });
+    
+
+
+
+
+
   
   })(window.jQuery);
 
