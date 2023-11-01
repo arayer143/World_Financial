@@ -29,6 +29,7 @@ h3{
   margin-bottom: 17rem;
   color: black;
   text-decoration: underline;
+  font-size: 20px;
 }
 
 .breadcrumb{
@@ -96,27 +97,7 @@ body::-webkit-scrollbar{
   }
 }
 
-.cta .content h3 {
-  color: var(--color-secondary);
-  font-size: 48px;
-  font-weight: 700;
-}
 
-.cta .content h3 em {
-  font-style: normal;
-  position: relative;
-}
-
-.cta .content h3 em:after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 10px;
-  height: 10px;
-  background: rgba(var(--color-primary-rgb), 0.5);
-  z-index: -1;
-}
 
 .cta .content p {
   color: var(--color-secondary);
@@ -198,11 +179,7 @@ body::-webkit-scrollbar{
   }
 }
 
-.onfocus .content h3 {
-  font-weight: 600;
-  font-size: 32px;
 
-}
 
 .onfocus .content ul {
   list-style: none;
