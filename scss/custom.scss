@@ -162,7 +162,9 @@ body::-webkit-scrollbar{
 /*--------------------------------------------------------------
 # About-info Section
 --------------------------------------------------------------*/
-
+.about{
+  height: auto;
+}
 
 .about .about-img {
   position: relative;
@@ -344,6 +346,21 @@ body::-webkit-scrollbar{
 }
 
 
+
+
+
+.contact-btn{
+  color: white;
+ 
+  text-decoration: none;
+}
+
+
+
+.btn :hover{
+  color: white;
+  
+}
 
 
 
