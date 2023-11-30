@@ -3,7 +3,7 @@
 
 $primary: #2f5e5a;
 $info: white;
-$secondary: #39726d;
+$secondary: #2d5855;
 
 
 
@@ -176,7 +176,7 @@ body::-webkit-scrollbar{
   inset: -60px 0 0 -60px;
   z-index: -1;
   content: "";
-  background: url("../images/about-bg.png") top left;
+  background: url("../images/about-bg.webp") top left;
   background-repeat: no-repeat;
 }
 
@@ -209,7 +209,7 @@ body::-webkit-scrollbar{
 }
 .onfocus .video-play {
   min-height: 400px;
-  background: linear-gradient(rgba(var(--color-black-rgb), 0.4), rgba(var(--color-black-rgb), 0.7)), url("../images/onfocus-video-bg.jpg") center center;
+  background: linear-gradient(rgba(var(--color-black-rgb), 0.4), rgba(var(--color-black-rgb), 0.7)), url("../images/onfocus-video-bg.webp") center center;
   background-size: cover;
 
 }
