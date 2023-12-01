@@ -398,16 +398,9 @@ strong {
   color: var(--custom-btn-bg-color);
 }
 
-.custom-border-btn:hover {
-  background: var(--custom-btn-bg-color);
-  border-color: transparent;
-  color: var(--white-color);
-}
 
-.custom-btn-bg-white {
-  border-color: var(--white-color);
-  color: var(--white-color);
-}
+
+
 
 
 /*---------------------------------------
@@ -570,9 +563,7 @@ strong {
   background-color: #00BFA6;
 }
 
-.bg-advertising {
-  background-color: #F50057;
-}
+
 
 .bg-finance {
   background-color: #536DFE;
@@ -790,40 +781,6 @@ blockquote {
 }
 
 
-.site-footer .dropdown-menu {
-  padding: 0;
-}
-
-.site-footer .dropdown-item {
-  color: var(--p-color);
-  font-size: var(--menu-font-size);
-  font-weight: var(--font-weight-medium);
-  padding: 4px 18px;
-}
-
-.site-footer .dropdown-item:hover {
-  background-color: transparent;
-  color: var(--primary-color);
-}
-
-.site-footer .dropdown-menu li:first-child .dropdown-item {
-  padding-top: 10px;
-}
-
-.site-footer .dropdown-menu li:last-child .dropdown-item {
-  padding-bottom: 12px;
-}
-
-.site-footer .dropdown-toggle {
-  background-color: var(--secondary-color);
-  border-color: var(--white-color);
-}
-
-.site-footer .dropdown-toggle:hover {
-  background-color: var(--primary-color);
-  border-color: transparent;
-}
-
 .site-footer-links {
   padding-left: 0;
 }
@@ -935,13 +892,7 @@ blockquote {
     flex-direction: column;
   }
 
-  .timeline-container .vertical-scrollable-timeline .list-progress {
-    height: 75%;
-  }
 
-  .timeline-container .vertical-scrollable-timeline li {
-    padding-left: 135px;
-  }
 
   .subscribe-form-wrap {
     padding-top: 30px;
@@ -970,13 +921,6 @@ blockquote {
     font-size: 26px;
   }
 
-  h4 {
-    font-size: 22px;
-  }
-
-  h5 {
-    font-size: 20px;
-  }
 
 
 
